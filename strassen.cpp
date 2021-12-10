@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 void multiply(int[100][100], int[100][100], int);
 int display(int[100][100], int);
 
