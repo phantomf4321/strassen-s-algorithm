@@ -33,7 +33,6 @@ int display(int c[100][100], int n)
     return 0;
 }
 
-
 int main()
 {
 
